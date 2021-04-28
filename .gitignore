@@ -3,3 +3,4 @@
 *.bam
 *.fq
 ./ref
+*.RData
