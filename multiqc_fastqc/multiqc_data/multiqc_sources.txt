@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR1193567	/scratch/samcarli/GSM1348541_MCF7_rnaseq/fastqc/SRR1193567_fastqc.zip
+FastQC	all_sections	SRR1193565	/scratch/samcarli/GSM1348541_MCF7_rnaseq/fastqc/SRR1193565_fastqc.zip
+FastQC	all_sections	SRR1193566	/scratch/samcarli/GSM1348541_MCF7_rnaseq/fastqc/SRR1193566_fastqc.zip
+FastQC	all_sections	SRR1193564	/scratch/samcarli/GSM1348541_MCF7_rnaseq/fastqc/SRR1193564_fastqc.zip
