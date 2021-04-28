@@ -1,0 +1,5 @@
+# Ignoring large files
+
+*.bam
+*.fq
+./ref
