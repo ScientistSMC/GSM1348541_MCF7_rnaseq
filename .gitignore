@@ -4,3 +4,4 @@
 *.fq
 ./ref
 *.RData
+.sqlite
